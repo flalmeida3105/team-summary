@@ -1,4 +1,4 @@
-const Employee = require('./lib/Employee');
+const InitializeQuestions = require('./lib/getUserResponse');
 
-new Employee().getName();
+new InitializeQuestions().getUserResponse();
 
