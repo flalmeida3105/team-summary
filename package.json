@@ -4,5 +4,25 @@
   },
   "devDependencies": {
     "jest": "^28.0.3"
-  }
+  },
+  "name": "team-summary",
+  "description": "An application that will help you to build a quick webpage summarizing your team members!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flalmeida3105/team-summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flalmeida3105/team-summary/issues"
+  },
+  "homepage": "https://github.com/flalmeida3105/team-summary#readme"
 }
