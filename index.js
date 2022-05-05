@@ -1,4 +1,4 @@
-const InitializeQuestions = require('./lib/getUserResponse');
+const InitializeQuestions = require('./lib/GetUserResponse');
 
 new InitializeQuestions().getUserResponse();
 
