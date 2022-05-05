@@ -50,7 +50,7 @@ Step1: Clone the team-summary repo from https://github.com/flalmeida3105/team-su
 ## Usage
 Please follow the step by step below to use this application. 
 
-From the root of your project, run node index.js, select what role needs to be added, answer all the questions presented, and once done adding all your employees, select Generate Site. An index.html file will be created by the application under DIST Folder.  
+From the root of your project, run npm run test, and ensure all tests pass, then run node index.js, select which role needs to be added, answer all the questions presented, and after adding all your employees, select Generate Site. An index.html file will be created by the application under DIST Folder.  
 
 
 ## Author
